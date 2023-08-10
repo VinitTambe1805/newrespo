@@ -1,1 +1,2 @@
 <b>This is edited<b>
+This is text file
